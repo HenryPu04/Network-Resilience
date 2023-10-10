@@ -1,3 +1,7 @@
-The analysis.py is the code that analyzes the resilience of a given graph.
-Simply running analysis.py will output a visualization of the analysis.
+The analysis.py is the code that analyzes the resilience of a given graph. Simply running analysis.py will output a visualization of the analysis.
+
+The analysis visualization compares a random and targeted attack to a given network graph as well as draw comparisons
+to two randomly computed graphs using Erdos-Renyi model and Undirected Preferential Attachment model with the same 
+number of nodes and approximate edge characteristics as the original network graph.
+
 rf7 is a sample test data set of a graph.
