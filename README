@@ -1,0 +1,3 @@
+The analysis.py is the code that analyzes the resilience of a given graph.
+Simply running analysis.py will output a visualization of the analysis.
+rf7 is a sample test data set of a graph.
